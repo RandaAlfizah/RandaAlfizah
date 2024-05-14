@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @RandaAlfizah
-- 👀 I’m interested in webdev
+- 👀 I’m interested in webdev, i hope i can apply job in frontend/backend company :)
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i like memes cuz my life sad & lonely, but now i grow up and my humor evolve become dark & absurd. in 2024 It's getting harder to laugh because the older you get, you have to think about this and that
+- ⚡ Fun fact: i can rap and i'm very like hip-hop/rap music. my fav artis r.i.p mac miller, you're song self care very help me through lonely night. when i wrote this i'm literally in oblivion too.
 
 <!---
 RandaAlfizah/RandaAlfizah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
